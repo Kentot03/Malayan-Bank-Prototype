@@ -1,0 +1,30 @@
+{
+  "version": "1",
+  "lists": [
+    {
+      "title": " Dashboard",
+      "icon": "fal fa-home",
+      "href": "/Home/HomePage"
+    },
+    {
+      "title": "Accounts",
+      "icon": "fal fa-wallet",
+      "href": "/Home/HomePage"
+    },
+    {
+      "title": "Transactions",
+      "icon": "fal fa-exchange-alt",
+      "href": "/Home/HomePage"
+    },
+    {
+      "title": "Loans",
+      "icon": "fal fa-handshake",
+      "href": "/Home/HomePage"
+    },
+    {
+      "title": "Card Management",
+      "icon": "fal fa-credit-card",
+      "href": "/Home/HomePage"
+    }
+  ]
+}

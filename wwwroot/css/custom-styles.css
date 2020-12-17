@@ -1,0 +1,14 @@
+﻿.field-validation-error {
+    color: #a50034;
+}
+.field-validation-error::before {
+    content: "*";
+}
+.input-validation-error {
+    border-color: #a50034 !important;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}

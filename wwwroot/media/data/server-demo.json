@@ -1,0 +1,34 @@
+{
+	"data":[
+		{
+			"_id": "1",
+			"code": "REGION1",
+			"name": "Region 1",
+			"description": "Region 1"
+		},
+		{
+			"_id": "2",
+			"code": "REGION2",
+			"name": "Region 2",
+			"description": "Region 2"
+		},
+		{
+			"_id": "3",
+			"code": "REGION3",
+			"name": "Region 3",
+			"description": "Region 3"
+		},
+		{
+			"_id": "4",
+			"code": "CAR",
+			"name": "CAR",
+			"description": "CAR"
+		},
+		{
+			"_id": "5",
+			"code": "NCR",
+			"name": "National Capital Region",
+			"description": "National Capital Region"
+		}
+	]
+}
