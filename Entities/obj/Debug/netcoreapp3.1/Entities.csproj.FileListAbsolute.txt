@@ -1,0 +1,43 @@
+C:\Users\USER\source\repos\LG.SMS\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\USER\source\repos\LG.SMS\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\LG.SMS\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\LG.SMS\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LG.SMS\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LG.SMS\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LG.SMS\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\USER\source\repos\LG.SMS\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\LG.SMS\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\MalayanBank Online Banking\Entities\bin\Debug\netcoreapp3.1\Entities.pdb

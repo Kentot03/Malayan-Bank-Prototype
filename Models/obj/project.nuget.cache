@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZWUL6MdzeQAsXd0WntzO6BEvl8KpKnahGTs0L1G2YT8E7FuxEP3sH5C6YYJD4gb73t2yhLgVO7DCso0CMWHrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\MalayanBank Online Banking\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.3\\microsoft.aspnetcore.http.features.3.1.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

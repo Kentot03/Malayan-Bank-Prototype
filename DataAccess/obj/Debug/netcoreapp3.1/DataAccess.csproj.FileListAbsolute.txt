@@ -1,0 +1,64 @@
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\USER\source\repos\LG.SMS\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\USER\source\repos\LG.SMS\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\source\repos\LG.SMS\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\source\repos\LG.SMS\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\LG.SMS\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\source\repos\LG.SMS\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\EJHAY\Desktop\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Jerald-Grace\Source\Repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\source\repos\Benevolence Enterprise V2\Benevolence.V2\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\source\repos\MalayanBank Online Banking\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
